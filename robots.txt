@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: https://familiehypotheekoverzicht.nl/sitemap.xml
+Sitemap: https://seo.familiehypotheekoverzicht.nl/sitemap.xml
 
 # Crawl-delay for politeness
 Crawl-delay: 1
